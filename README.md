@@ -13,7 +13,7 @@ The Strobe Alignment Project implements a strobe alignment algorithm for compari
 To set up the project, ensure you have Python installed on your machine. Then, clone the repository and install the required dependencies:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/5112369/final_project>
 cd strobealign-project
 pip install -r requirements.txt
 ```
